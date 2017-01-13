@@ -1,0 +1,4 @@
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\ApiSignalrAngularModel\bin\Debug\ApiSignalrAngularModel.dll
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\ApiSignalrAngularModel\bin\Debug\ApiSignalrAngularModel.pdb
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\ApiSignalrAngularModel\obj\Debug\ApiSignalrAngularModel.dll
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\ApiSignalrAngularModel\obj\Debug\ApiSignalrAngularModel.pdb

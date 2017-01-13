@@ -1,0 +1,5 @@
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\DataflowSignalrAngularService\bin\Debug\DataflowSignalrAngularService.dll
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\DataflowSignalrAngularService\bin\Debug\DataflowSignalrAngularService.pdb
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\DataflowSignalrAngularService\obj\Debug\DataflowSignalrAngularService.csprojResolveAssemblyReference.cache
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\DataflowSignalrAngularService\obj\Debug\DataflowSignalrAngularService.dll
+D:\Samples\SIGNALR\DataflowSignalrAngularDemo\DataflowSignalrAngularService\obj\Debug\DataflowSignalrAngularService.pdb
